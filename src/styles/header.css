@@ -1,0 +1,15 @@
+header {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap: 10px;
+    font-weight: 500;
+    font-size: 0.9rem;
+    height: 55px;
+}
+
+header > img {
+    width: 24px;
+}
